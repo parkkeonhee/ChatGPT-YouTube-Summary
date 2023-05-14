@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "openai": "^3.2.1",
+    "youtube-browser-api": "^0.0.9"
+  }
+}

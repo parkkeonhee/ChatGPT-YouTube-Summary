@@ -58,3 +58,14 @@ The narrator is contemplating the risks of starting a relationship with someone 
 6. `console.log(gptResponse.data.choices[0].text.trim());` - Prints the generated summary to the console. The `trim` function removes any leading or trailing whitespace from the summary.
 
 7. `getVideoSummary('9pdj4iJD08s');` - Calls the `getVideoSummary` function with the YouTube video ID of BlackPink's "Playing with Fire" song as an example. You can replace `'9pdj4iJD08s'` with the ID of any YouTube video to generate a summary of that video's transcript.
+
+## License
+
+This project is open source and freely available for public use. 
+
+## Contact
+
+For inquiries, suggestions, or discussions:
+
+- LinkedIn: Gunhee Park (https://linkedin.com/in/parkkeonhee)
+- GitHub: parkkeonhee (https://github.com/parkkeonhee)
